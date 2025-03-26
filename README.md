@@ -106,7 +106,7 @@ A file selection dialog will appear. Choose a video file for processing.
 
 ## ⚙ Configuration  
 
-🔧 You can modify detection thresholds, OCR settings, and GUI preferences in `licence.py` .  
+🔧 You can modify detection thresholds, OCR settings, and GUI preferences in `license.py` .  
 
 ---
 
